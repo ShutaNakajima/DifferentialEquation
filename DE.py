@@ -8,7 +8,7 @@ def system_of_eqs(x, y):
     return [g,- f]
 
 # Initial conditions
-initial_conditions = [1, 1]  # [f(0), f'(0)]
+initial_conditions = [1, 2]  # [f(0), f'(0)]
 
 # Time span (x values)
 x_span = [0, 10]  # You can adjust the upper limit as needed
